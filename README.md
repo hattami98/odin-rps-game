@@ -1,2 +1,8 @@
 # odin-rps-game
 A simple rock, paper, scissor game inspired by TheOdinProject Javascript Project
+
+This project might be a little weird since I only uploaded finished files. I did the script in a separate file and copy it in the repository. I forgot to start from making repository like I usually do in projects based on TheOdinProject, instead I'd just started coding in a separate folder. I use the folder for doing random exercise.
+
+Back to the project. In this project I want to hone my understanding in the basics of JavaScript and problem solving. I start this project by listing the steps the program should do in a piece of paper. Then I write comments based on that list. I begin from getting the player's choice, which include how to get the input, how to standardize the input, how to check the validity of the input, and how to store it. Next, I got to how the program get the computer's choice. I did this by getting random number between 0 to 2, assigning the numbers to the 3 choices(rock, paper, scissor), and then storing it as the computer's choice. Next step, the play round. This is where the player's and computer's choices being compared to determine which one of them is the victor, or tie if they managed to choose the same choice. I also add a function to show who wins that round. After that, I got to the main function, the game function. The game will have 5 round, and it will store and calculate the score from each round. Who has the highest score wins the game. Lastly, I added a little feature to ask the user to play the game at the start of the program, and ask them wether they want to play again. 
+
+I learned much from this project, such as problem solving, function, and debuggin.
